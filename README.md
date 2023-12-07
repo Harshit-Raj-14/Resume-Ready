@@ -8,6 +8,12 @@ Harshit Raj,
 Saarthak Srivastava,
 Ankush Ranjan
 
+## Video Demo
+Link - https://drive.google.com/file/d/1rn3UhPmL1yykT0YM6iCvhWTCKR-lIh8n/view?usp=sharing
+
+## PPT Slides
+Link - https://drive.google.com/file/d/14FnweHBDMQsenBT0GzB2kkrWbLlvVv1X/view?usp=sharing
+
 ## Resume Ready
 #### A chrome extension for LinkedIn for you to be always job ready.
 
