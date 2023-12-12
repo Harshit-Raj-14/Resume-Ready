@@ -14,6 +14,9 @@ Link - https://drive.google.com/file/d/1rn3UhPmL1yykT0YM6iCvhWTCKR-lIh8n/view?us
 ## PPT Slides
 Link - https://drive.google.com/file/d/14FnweHBDMQsenBT0GzB2kkrWbLlvVv1X/view?usp=sharing
 
+## Video Pitch
+Link - 
+
 ## Resume Ready
 #### A chrome extension for LinkedIn for you to be always job ready.
 
@@ -27,5 +30,30 @@ Resume Ready makes your job faster and helps you to apply for any job faster tha
 * Get a resume made and updated based on your LinkedIn profile information(experience, internships, education, recent posts, projects, certifications and achievements)
 * Decide whether the job is fit for you by comparing data from your resume with job description like (graduation date, cgpa requirement, work experience, skills match).
 
-## WORK IN PROGRESS
-Currently this is the frontend of the work, and we will be completing with the backend soon and on time with all of the deliverables.
+## How to Install the extension
+
+1 Clone/Download this repo.
+
+2 Go to chrome://extensions.
+
+3 Enable "Developer mode".
+
+4 In the Developer options, click on "Load unpacked".
+
+5 Select the build/ folder from the repo.
+
+6 Now you can use the chrome extension.
+
+<br>
+
+**You are ready to be always job ready with Resume Ready.**
+
+# PROJECT SNAPS
+![118126ad-470e-445e-8308-913d53bf4422](https://github.com/Harshit-Raj-14/Engage-Hackathon-Resume-Ready/assets/98808802/b7a10d15-44bd-4ba4-ae72-fcb6887b1228)
+![f3a885fe-060a-4896-a14c-f63740fcbc8d](https://github.com/Harshit-Raj-14/Engage-Hackathon-Resume-Ready/assets/98808802/6bf0af9b-8e14-4a43-97dc-388049b8fdd8)
+![1e0d7965-ffa6-442f-a93a-ec36fa02319b](https://github.com/Harshit-Raj-14/Engage-Hackathon-Resume-Ready/assets/98808802/53242c06-21bc-4f9f-bd45-d80071c113d8)
+![Screenshot 2023-11-02 at 23-27-29 SyntaxErrorX Project - Resume Ready](https://github.com/Harshit-Raj-14/Engage-Hackathon-Resume-Ready/assets/98808802/ac694cf5-3ce4-4f87-8990-2ca05994dfee)
+
+# THANK YOU
+
+
