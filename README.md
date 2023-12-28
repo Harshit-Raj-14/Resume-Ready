@@ -1,13 +1,3 @@
-# PitchTember-NITP
-
-Team Name:
-FullMetal Algorithmist
-
-Members:
-Harshit Raj,
-Saarthak Srivastava,
-Ankush Ranjan
-
 ## Video Demo
 Link - [https://drive.google.com/file/d/1rn3UhPmL1yykT0YM6iCvhWTCKR-lIh8n/view?usp=sharing](https://drive.google.com/file/d/1QyQO4269vqbp0lem6RbSW7wUNElcCQoU/view?usp=sharing)
 
