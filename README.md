@@ -39,10 +39,13 @@ Resume Ready makes your job faster and helps you to apply for any job faster tha
 **You are ready to be always job ready with Resume Ready.**
 
 # PROJECT SNAPS
-![118126ad-470e-445e-8308-913d53bf4422](https://github.com/Harshit-Raj-14/Engage-Hackathon-Resume-Ready/assets/98808802/b7a10d15-44bd-4ba4-ae72-fcb6887b1228)
-![f3a885fe-060a-4896-a14c-f63740fcbc8d](https://github.com/Harshit-Raj-14/Engage-Hackathon-Resume-Ready/assets/98808802/6bf0af9b-8e14-4a43-97dc-388049b8fdd8)
-![1e0d7965-ffa6-442f-a93a-ec36fa02319b](https://github.com/Harshit-Raj-14/Engage-Hackathon-Resume-Ready/assets/98808802/53242c06-21bc-4f9f-bd45-d80071c113d8)
-![Screenshot 2023-11-02 at 23-27-29 SyntaxErrorX Project - Resume Ready](https://github.com/Harshit-Raj-14/Engage-Hackathon-Resume-Ready/assets/98808802/ac694cf5-3ce4-4f87-8990-2ca05994dfee)
+![Untitled-2023-10-20-2034](https://github.com/Harshit-Raj-14/Resume-Ready/assets/98808802/44a5bf76-5a48-489a-a504-1c99e4ef8f64)
+
+![280091699-ac694cf5-3ce4-4f87-8990-2ca05994dfee](https://github.com/Harshit-Raj-14/Resume-Ready/assets/98808802/ff280f38-2be6-409d-871f-f05872f0c40e)
+
+![280091659-6bf0af9b-8e14-4a43-97dc-388049b8fdd8](https://github.com/Harshit-Raj-14/Resume-Ready/assets/98808802/8d58e35e-3d71-4605-9e53-f2dbdbbef4f0)
+
+![280091671-53242c06-21bc-4f9f-bd45-d80071c113d8](https://github.com/Harshit-Raj-14/Resume-Ready/assets/98808802/4c142e1e-e9ac-46a2-8c0c-1d6fdfede020)
 
 # THANK YOU
 
